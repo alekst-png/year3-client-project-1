@@ -7,9 +7,9 @@
 - Any imports with original paths to files are left to show how the files were orginally laid out in the private repository.
   
 ## Images of what my features look like (from original repository)
-Graph Page:
+Graph Page:  
 ![image](https://github.com/alekst-png/year3-client-project-1/assets/71924470/7ff031e7-c9e2-44db-bea0-7e108841787c)
 ![image](https://github.com/alekst-png/year3-client-project-1/assets/71924470/01b0cbeb-86c9-45c3-8e60-e2578d0b70e6)
   
-Login Page:
+Login Page:  
 ![image](https://github.com/alekst-png/year3-client-project-1/assets/71924470/de391025-c691-4086-be88-2a1415fd2ca7)
