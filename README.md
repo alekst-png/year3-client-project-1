@@ -5,6 +5,7 @@
 - This just functions as a way to view the code I wrote for the group project (from Novemeber and December 2023).
 - Any sensitive data has been changed in the files.
 - Any imports with original paths to files are left to show how the files were orginally laid out in the private repository.
+- This was developed using the MERN stack.
   
 ## Images of what my features look like (from original repository)
 Graph Page:  
